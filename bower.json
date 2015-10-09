@@ -1,0 +1,23 @@
+{
+  "name": "normalize.scss",
+  "version": "0.1.0",
+  "homepage": "https://github.com/drPytho/normalize.scss",
+  "authors": [
+    "Filip Lindvall <filip9719@gmail.com>"
+  ],
+  "description": "This is a fork of normalize.css but with the base in scss and with a pre-compiled css and min.css",
+  "main": "_normalize.scss",
+  "keywords": [
+    "normalize",
+    "css",
+    "scss"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

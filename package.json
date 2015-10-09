@@ -1,0 +1,30 @@
+{
+  "name": "normalize.scss",
+  "version": "0.1.0",
+  "description": "This is the scss version of normalize.css with pre-compiled css files.",
+  "main": "_normalize.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drPytho/normalize.scss.git"
+  },
+  "keywords": [
+    "normalize",
+    "css",
+    "scss"
+  ],
+  "author": "Filip Linvall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drPytho/normalize.scss/issues"
+  },
+  "homepage": "https://github.com/drPytho/normalize.scss#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-minify-css": "^1.2.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.0.4"
+  }
+}
