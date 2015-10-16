@@ -1,6 +1,6 @@
 {
-  "name": "normalize.scss",
-  "version": "0.1.0",
+  "name": "dr-normalize-scss",
+  "version": "1.0.1",
   "description": "This is the scss version of normalize.css with pre-compiled css files.",
   "main": "_normalize.scss",
   "scripts": {

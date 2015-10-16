@@ -1,6 +1,6 @@
 {
-  "name": "normalize.scss",
-  "version": "0.1.0",
+  "name": "dr-normalize-scss",
+  "version": "1.0.1",
   "homepage": "https://github.com/drPytho/normalize.scss",
   "authors": [
     "Filip Lindvall <filip9719@gmail.com>"
